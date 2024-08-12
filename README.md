@@ -5,7 +5,7 @@ The project primarily aims to centralize IAM policy management to improve config
 ## Step to Run the Terrform
 1. create a folder for store all the terrform related files
 2. run the terrform to bulid the user base on the config in main.tf
-3. verify
+3. verify status in the file
 
 ## output to S3
 Further we will using terraform output
